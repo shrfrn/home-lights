@@ -1,0 +1,15 @@
+{
+  "livingRoom": {
+    "Above TV": true,
+    "East Wall": false,
+    "Brick Wall Lighting": true,
+    "Socket": true
+  },
+  "masterBedroom": {
+    "Standing Lamp": true,
+    "Wall Lighting": true,
+    "Sharon Bed": true,
+    "Shahar Bed": false,
+    "warderobe": false
+  }
+}

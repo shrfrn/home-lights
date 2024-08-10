@@ -1,0 +1,12 @@
+
+GET http://localhost:3030/api/light/livingRoom
+
+###
+
+PUT http://localhost:3030/api/light/livingRoom
+content-type: application/json
+
+{
+    "Above TV": true,
+    "East Wall": false
+}

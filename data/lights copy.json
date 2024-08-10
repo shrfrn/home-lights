@@ -1,0 +1,18 @@
+[
+    {
+        "livingRoom": {
+            "aboveTV" : true,
+            "eastWall": true,
+            "brickWall": true,
+            "standingLamp": true
+        }
+    },
+    {
+        "masterBedroom": {
+            "standingLamp": true,
+            "wallLights": true,
+            "sharonBed": true,
+            "shaharBed": false
+        }
+    }
+]
